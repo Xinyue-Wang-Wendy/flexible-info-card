@@ -28,3 +28,24 @@ ul {
   padding: 0;
   margin: 0;
 }
+
+section li {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+  width: 24rem;
+}
+
+section a {
+  color: white;
+  text-decoration: none;
+  background-color: #444;
+  padding: .5rem 1rem;
+  margin: 1.5rem;
+}
